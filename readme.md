@@ -1,1 +1,2 @@
-# This is a template designed by PixelMakers to make code development easier in Webflow
+# PXM Code Template
+This is a template developed by PixelMakers to make TS development easier with Webflow.
